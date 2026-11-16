@@ -1,0 +1,34 @@
+.header{
+    display: flex;
+    align-items: center;
+    padding: 0 55px;
+    color: white;
+    background-color: #07366d ;
+    justify-content: space-between;
+}
+
+.titulo h1 {
+    font-size: 30px;
+    margin-bottom: 3px;
+}
+
+.titulo p {
+    font-size: 17px;
+}
+
+.menu{
+    display: flex;
+    align-items: center;
+    gap: 25px;
+    margin-left: 80px;
+    list-style: none;
+}
+.menu a {
+    text-decoration: none;
+    color: white;
+    font-size: 17px;
+    padding: 10px 15px;
+    border-radius: 8px;
+    margin-right: auto;
+    justify-content: space-between;
+}

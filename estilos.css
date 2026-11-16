@@ -32,3 +32,51 @@
     margin-right: auto;
     justify-content: space-between;
 }
+.foto1{
+    justify-content: right;
+    display: flex;
+}
+.cuerpo p {
+    text-align: left;
+    display: flex;
+    font-size: 20px;
+}
+.Icono{
+    justify-items: left;
+    font-size: 20px;
+    display: flex;
+    background-color: aliceblue;
+}
+.Icono ul {
+    display: flex;
+    justify-content: space-between;
+    justify-content: left;
+}
+body{
+    align-items: center;
+}
+.lista1{
+    background-color: aliceblue;
+}
+.participar{
+    font-size: 20px;
+    display: flex;
+    background-color: aliceblue;
+    justify-content: right;
+    justify-content: space-between;
+}
+footer{
+background-color: #07366d;
+color: white;
+justify-content: center;
+}
+.lista2{
+    justify-content: right;
+    justify-items: right;
+}
+.texto1{
+    text-align: right;
+    justify-content: right;
+    gap: 20px;
+    display: flex;
+}
